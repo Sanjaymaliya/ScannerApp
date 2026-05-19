@@ -1,4 +1,4 @@
-# creditcardapp
+# ScannerApp
 
 Flutter project.
 
@@ -23,4 +23,3 @@ Dart 3.11.1
 
 🎥 Watch Demo:
 https://drive.google.com/file/d/1StE9hj0vcyDlLsgyKLmoX18ZhbxqiXI_/view?usp=sharing
-
